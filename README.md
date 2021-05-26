@@ -3,7 +3,7 @@
 
 ## INTRODUCTION
 
-[RSA (Rivest-Shamir-Adleman)](https://en.wikipedia.org/wiki/RSA_(cryptosystem%29) is one of the oldest public-key cryptosystem that is used for secure data transmission. The acronym RSA comes from the surnames of [Ron Rivest](https://en.wikipedia.org/wiki/Ron_Rivest), [Adi Shamir](https://en.wikipedia.org/wiki/Adi_Shamir) and [Leonard Adleman](https://en.wikipedia.org/wiki/Leonard_Adleman) who publicly described the algorithm in 1977.
+[RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem%29) is one of the oldest public-key cryptosystem that is used for secure data transmission. The acronym RSA comes from the surnames of [Ron Rivest](https://en.wikipedia.org/wiki/Ron_Rivest), [Adi Shamir](https://en.wikipedia.org/wiki/Adi_Shamir) and [Leonard Adleman](https://en.wikipedia.org/wiki/Leonard_Adleman) who publicly described the algorithm in 1976.
 
 ## The Task
 
